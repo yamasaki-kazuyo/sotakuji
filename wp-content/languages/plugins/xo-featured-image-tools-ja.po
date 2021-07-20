@@ -1,0 +1,176 @@
+# Translation of Plugins - XO Featured Image Tools - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - XO Featured Image Tools - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-28 07:39:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - XO Featured Image Tools - Stable (latest release)\n"
+
+#: admin.php:697
+msgid "px or less"
+msgstr "px 以下"
+
+#: admin.php:354 admin.php:626
+msgid "Exclude small image"
+msgstr "小さい画像を除外"
+
+#. Author of the plugin
+msgid "Xakuro"
+msgstr "Xakuro"
+
+#: admin.php:711
+msgid "Clear Image"
+msgstr "画像をクリア"
+
+#: admin.php:710
+msgid "Default Image"
+msgstr "デフォルト画像"
+
+#: admin.php:710
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: admin.php:627
+msgid "Default image"
+msgstr "デフォルト画像"
+
+#: admin.php:359
+msgid "To set the default image, specify the default image from the setting page."
+msgstr "デフォルト画像を設定する場合は、設定ページよりデフォルト画像を指定してください。"
+
+#: admin.php:357
+msgid "Use the default image"
+msgstr "デフォルト画像を使用する"
+
+#. Description of the plugin
+msgid "Automatically generates the featured image from the image of the post."
+msgstr "投稿の画像からアイキャッチ画像を自動生成します。"
+
+#: admin.php:674
+msgid "Please select the post type that automatically generates featured images."
+msgstr "アイキャッチ画像を自動生成する投稿タイプを選択してください。"
+
+#: admin.php:650
+msgid "Please select the post type to display featured image item."
+msgstr "アイキャッチ画像項目を表示する投稿タイプを選択してください。"
+
+#: admin.php:625
+msgid "External image"
+msgstr "外部画像"
+
+#: admin.php:624
+msgid "Automatically generated"
+msgstr "自動生成"
+
+#: admin.php:362
+msgid "Generate featured image"
+msgstr "アイキャッチ画像を生成"
+
+#: admin.php:351 admin.php:685
+msgid "Also applies to external images (images other than attachment files)"
+msgstr "外部画像（添付ファイル以外の画像）も対象とする"
+
+#: admin.php:339
+msgid "Post type: "
+msgstr "投稿タイプ: "
+
+#: admin.php:338
+msgid "Generate the featured image collectively."
+msgstr "アイキャッチ画像を一括生成します。"
+
+#. Author URI of the plugin
+msgid "https://xakuro.com/"
+msgstr "https://xakuro.com/"
+
+#. Plugin URI of the plugin
+msgid "https://xakuro.com/wordpress/"
+msgstr "https://xakuro.com/wordpress/"
+
+#. Plugin Name of the plugin
+msgid "XO Featured Image Tools"
+msgstr "XO Featured Image Tools"
+
+#: admin.php:623
+msgid "Edit Post"
+msgstr "投稿の編集"
+
+#: admin.php:622
+msgid "Featured Image Item"
+msgstr "アイキャッチ画像項目"
+
+#: admin.php:621
+msgid "Post List"
+msgstr "投稿一覧"
+
+#: admin.php:605
+msgid "XO Featured Image Tools Settings"
+msgstr "XO Featured Image Tools 設定"
+
+#: admin.php:577
+msgid "Not set"
+msgstr "未設定"
+
+#: admin.php:576
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: admin.php:545
+msgid "Image"
+msgstr "画像"
+
+#: admin.php:328
+msgid "Failure: %s"
+msgstr "失敗: %s"
+
+#: admin.php:327
+msgid "Success: %s"
+msgstr "成功: %s"
+
+#: admin.php:326
+msgid "Total: %s"
+msgstr "合計: %s"
+
+#: admin.php:325
+msgid "Post Type: %s"
+msgstr "投稿タイプ: %s"
+
+#: admin.php:324
+msgid "Status"
+msgstr "ステータス"
+
+#: admin.php:323
+msgid "Stop"
+msgstr "中止"
+
+#: admin.php:319
+msgid "It may take some time. Please do not move from this page until it is completed."
+msgstr "時間が掛かる場合があります。完了するまで、このページから移動しないでください。"
+
+#: admin.php:316
+msgid "Completed. %s failed."
+msgstr "完了しました。%s 件の失敗があります。"
+
+#: admin.php:315
+msgid "Completed. There is no failure."
+msgstr "完了しました。失敗はありません。"
+
+#: admin.php:314
+msgid "Abort..."
+msgstr "中止しています..."
+
+#: admin.php:295
+msgid "%s was not found."
+msgstr "%s が見つかりませんでした。"
+
+#: admin.php:221 admin.php:231 admin.php:245 admin.php:255
+msgid "\"%s\" (ID %d) failed."
+msgstr "\"%s\" (ID %d) は失敗しました。"
+
+#: admin.php:48 admin.php:49 admin.php:281
+msgid "Featured Image Tools"
+msgstr "アイキャッチ画像ツール"
